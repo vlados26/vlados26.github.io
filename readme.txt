@@ -1,6 +1,6 @@
 Author: SirotkinVLad | sirotkin96@gmail.com
 
-```Optimized for Google PageSpeed start HTML5 template with:```
+#Optimized for Google PageSpeed start HTML5 template with:
 Bootstrap, Gulp, Sass, Concat,
 Uglify, Css-nano, Browsersync, 
 Autoprefixer, Imagemin, 
